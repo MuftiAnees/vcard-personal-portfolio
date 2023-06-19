@@ -1,0 +1,2 @@
+- fix social links
+- fix about me according to QA, automation
