@@ -2,9 +2,9 @@
 
 ## About
 - [ ] fix about me according to QA, automation
-- [ ] Fix "What I'm Doing"
-- [ ] Fix "Testimonials"
-- [ ] Fix "Clients"
+- [ ] Fix "What I'm Doing icons"
+- [x] Fix "Testimonials"
+- [x] Fix "Clients"
 - [ ] 
 - [x] Fix social links
 ## Resume
